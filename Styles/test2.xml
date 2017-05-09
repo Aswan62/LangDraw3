@@ -1,0 +1,14 @@
+<Style>
+  <Body Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Fill-Background="true" Background-Color="#FFFFFF" Font-Family-2Byte="ＭＳ 明朝" Background-Color-Opacity="1.0" />
+  <BR Line-Height="80" />
+  <Span Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Text-Decoration="UNDERLINE" Text-Decoration-Color="#FF0000" Border-Color="#0" Border-Width="1.0" Background-Color="#FFFFCC" Font-Family-2Byte="ＭＳ 明朝" Text-Decoration-Color-Opacity="1.0" Background-Color-Opacity="1.0" Border-Color-Opacity="1.0" Border-Form-Left="LINEAR" Border-Form-Right="CURVE1" />
+  <InMark Font-Family="Times New Roman" Font-Size="30" Font-Style="Plain" Font-Color="#000000" Font-Family-2Byte="ＭＳ 明朝" Text-Decoration-Color-Opacity="0.0" />
+  <Mark Font-Family="Times New Roman" Font-Size="20.0" Font-Style="Plain" Font-Color="#000000" Border-Color="#000000" Margin="5" Text-Align="Center" Vertical-Align="Sub" Horizontal-Align="Center" Font-Family-2Byte="ＭＳ 明朝" Text-Decoration-Color-Opacity="0.0" />
+  <Arrow Arrow-Color="#0" Arrow-Width="1.0" Radius="15.0" Depth="100" StartHead-Type="NONE" EndHead-Type="OPEN" StartHead-Size="1.0" EndHead-Size="1.0" />
+  <TextBox Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Fill-Background="true" Background-Color="#FFFFFF" Font-Family-2Byte="ＭＳ 明朝" Padding="5.0" Background-Color-Opacity="1.0" />
+  <Span ID="Underline" Text-Decoration="UNDERLINE" Text-Decoration-Color="#0" Text-Decoration-Color-Opacity="1.0" />
+  <InMark Font-Size="18.0" ID="Sub" Vertical-Align="SUPER" />
+  <InMark Font-Size="18.0" ID="Super" Vertical-Align="SUPER" />
+  <Span ID="Rect border" Border-Color="#0" Border-Color-Opacity="1.0" Border-Width="1.0" Border-Form-Left="LINEAR" Border-Form-Right="LINEAR" />
+  <Span ID="Eclipse" Border-Color="#0" Border-Color-Opacity="1.0" Border-Width="1.0" Border-Form-Left="CURVE2" Border-Form-Right="CURVE2" />
+</Style>

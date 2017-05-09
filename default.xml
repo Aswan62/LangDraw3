@@ -1,0 +1,31 @@
+<LangDraw>
+  
+<!--Style Settings-->
+  <Style>
+  <Body Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Background-Color="#FFFFFF" Font-Family-2Byte="MS Mincho" Background-Color-Opacity="1.0" />
+  <BR Line-Height="80" />
+  <Span Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Border-Color="#0" Border-Width="1.0" Background-Color="#FFCCCC" Font-Family-2Byte="MS Mincho" Background-Color-Opacity="1.0" Border-Color-Opacity="1.0" Border-Form-Left="LINEAR" Border-Form-Right="LINEAR" />
+  <InMark Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Font-Family-2Byte="MS Mincho" />
+  <Mark Font-Family="Times New Roman" Font-Size="20.0" Font-Style="Plain" Font-Color="#0" Margin="30.0" Text-Align="Center" Horizontal-Align="CENTER" Font-Family-2Byte="MS Mincho" Vertical-Align="SUB" />
+  <Arrow Arrow-Color="#0" Arrow-Width="1.0" Radius="15.0" Depth="100" StartHead-Type="NONE" EndHead-Type="OPEN" StartHead-Size="1.0" EndHead-Size="1.0" />
+  <TextBox Font-Family="Times New Roman" Font-Size="30.0" Font-Style="Plain" Font-Color="#0" Fill-Background="true" Background-Color="#FFFFFF" Font-Family-2Byte="MS Mincho" Padding="5.0" Background-Color-Opacity="1.0" />
+  <Span ID="Underline" Text-Decoration="UNDERLINE" Text-Decoration-Color="#0" Text-Decoration-Color-Opacity="1.0" />
+  <InMark Font-Size="18.0" ID="Sub" Vertical-Align="SUB" />
+  <InMark Font-Size="18.0" ID="Super" Vertical-Align="SUPER" />
+  <Span ID="Rect border" Border-Color="#0" Border-Color-Opacity="1.0" Border-Width="1.0" Border-Form-Left="LINEAR" Border-Form-Right="LINEAR" />
+  <Span ID="Eclipse" Border-Color="#0" Border-Color-Opacity="1.0" Border-Width="1.0" Border-Form-Left="CURVE2" Border-Form-Right="CURVE2" />
+</Style>
+  
+<!--TextBox Settings-->
+  <TextBoxes>
+
+  </TextBoxes>
+  
+<!--Arrow Settings-->
+  <Arrows>
+
+</Arrows>
+  
+<!--Sentence Settings-->
+  <Body>aaaaaaaaaaaaaaaaaaaa</Body>
+</LangDraw>

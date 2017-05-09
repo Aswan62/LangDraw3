@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: . LangDraw3_lib/freehep-graphicsio-2.1.1.jar LangDraw3_lib
+ /freehep-graphicsio-emf-2.1.1.jar LangDraw3_lib/freehep-export-2.1.1.
+ jar LangDraw3_lib/swingx-core-1.6.2.jar LangDraw3_lib/freehep-graphic
+ sio-svg-2.1.1.jar LangDraw3_lib/rsyntaxtextarea.jar LangDraw3_lib/fre
+ ehep-graphicsio-java-2.1.1.jar LangDraw3_lib/freehep-io-2.0.2.jar Lan
+ gDraw3_lib/openide-lookup-1.9-patched-1.0.jar LangDraw3_lib/freehep-u
+ til-2.0.2.jar LangDraw3_lib/freehep-graphics2d-2.1.1.jar LangDraw3_li
+ b/junit-3.8.2.jar LangDraw3_lib/freehep-graphicsio-tests-2.1.1.jar La
+ ngDraw3_lib/miglayout15-swing.jar LangDraw3_lib/jas-plotter-2.2.jar L
+ angDraw3_lib/freehep-xml-2.1.1.jar LangDraw3_lib/freehep-swing-2.0.3.
+ jar LangDraw3_lib/jdom-1.0.jar LangDraw3_lib/freehep-graphicsio-ps-2.
+ 1.1.jar LangDraw3_lib/jdom-1.1.2.jar LangDraw3_lib/freehep-graphicsio
+ -swf-2.1.1.jar LangDraw3_lib/forms-1.3.0.jar LangDraw3_lib/freehep-gr
+ aphicsio-pdf-2.1.1.jar
+Main-Class: windows.MainWindow
+SplashScreen-Image: splash.png

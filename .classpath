@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Control"/>
+	<classpathentry kind="src" path="Paser"/>
+	<classpathentry kind="src" path="Drawer"/>
+	<classpathentry kind="src" path="Images"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/forms-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-export-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphics2d-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-emf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-java-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-pdf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-ps-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-svg-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-swf-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-graphicsio-tests-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-io-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-swing-2.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-util-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/freehep-xml-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/jas-plotter-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/jdom-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/openide-lookup-1.9-patched-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/rsyntaxtextarea.jar"/>
+	<classpathentry kind="lib" path="/Users/aswan/Dropbox/SyuheiT/Java/langdraw/LangDraw3_lib/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
